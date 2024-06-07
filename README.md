@@ -4,10 +4,10 @@
 ```cpp
 void aboutMe(void)
 {
-char currentlyLearning[] = "Machine Learning and IoT Applications";
-char AskMeAbout[] = "Django Framework, Linux and Python";
-char ReachMeAt[] = "ventrone524@gmail.com";
-char FunFact[]  = "I can't walk straight 😭";
+   char currentlyLearning[] = "Machine Learning and IoT Applications";
+   char AskMeAbout[] = "Django Framework, Linux and Python";
+   char ReachMeAt[] = "ventrone524@gmail.com";
+   char FunFact[]  = "I can't walk straight 😭";
 }
 ```
 
