@@ -5,9 +5,10 @@
 void aboutMe(void)
 {
    char currentlyLearning[] = "Machine Learning and IoT Applications";
-   char AskMeAbout[] = "Django Framework, Linux and Python";
-   char ReachMeAt[] = "ventrone524@gmail.com";
-   char FunFact[]  = "I can't walk straight 😭";
+   char askMeAbout[] = "Django Framework, Linux and Python";
+   char interestedIn[] = "Computer Vision, OOP Programming";
+   char reachMeAt[] = "ventrone524@gmail.com";
+   char funFact[]  = "I can't walk straight 😭";
 }
 ```
 
